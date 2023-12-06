@@ -1,0 +1,12 @@
+*xlsx
+*csv
+*yml
+lightning_logs
+data
+*docx
+*xlsx
+*tmp
+*pdf
+briabad
+crawl-300d-2M.vec
+*.txt
